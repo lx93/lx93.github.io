@@ -486,6 +486,7 @@ ol {
 /*---------------------
 	Resume section
 ----------------------*/
+
 .resume-section.with-bg {
 	background-image: url(../img/resume-bg.jpg);
 	background-repeat: no-repeat;
@@ -688,7 +689,7 @@ ol {
 
 .copyright {
 	padding-top: 5px;
-	font-size: 12px;
+	font-size: 8px;
 	color: #838488;
 	line-height: normal;
 }
@@ -803,7 +804,7 @@ ol {
 .home-three-style .main-left-area,
 .home-four-style .main-left-area {
 	background: #f2f7f8;
-	padding-top: 200px;
+	padding-top: 20px;
 	padding-right: 80px;
 	padding-left: 80px;
 }
@@ -815,7 +816,7 @@ ol {
 
 .home-three-style .main-right-area,
 .home-four-style .main-right-area {
-	padding-top: 200px;
+	padding-top: 250px;
 	padding-left: 110px;
 }
 
